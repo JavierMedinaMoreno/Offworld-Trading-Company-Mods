@@ -1,0 +1,9 @@
+Hold Price allows you to peg any commodity's market price using automated buy and sell trades.
+
+Key Features:
+- Press SHIFT + CTRL + Click on the commodity Buy (+) button to toggle price pegging at the current market price.
+- The commodity's stockpile numbers glow in persistent gold on your HUD whenever price pegging is active.
+- Automatically purchases units if market prices drop below your peg, and sells excess inventory if prices rise above your peg.
+- Manual Price Adjustments: Execute manual trades on the pegged commodity to seamlessly adjust your target price.
+- Automatically adjusts trade size (from 10 to 5, 2, or 1 unit) to maintain maximum price stability.
+- Disengages if you run out of cash to buy or run out of stockpile to sell.

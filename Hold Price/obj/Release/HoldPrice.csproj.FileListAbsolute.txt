@@ -1,0 +1,6 @@
+C:\Users\Javiervs\Documents\OTC Mods\Hold Price\obj\Release\HoldPrice.csproj.AssemblyReference.cache
+C:\Users\Javiervs\Documents\OTC Mods\Hold Price\obj\Release\HoldPrice.csproj.CoreCompileInputs.cache
+C:\Users\Javiervs\Documents\OTC Mods\Hold Price\bin\Release\HoldPriceCore.dll
+C:\Users\Javiervs\Documents\OTC Mods\Hold Price\bin\Release\HoldPriceCore.pdb
+C:\Users\Javiervs\Documents\OTC Mods\Hold Price\obj\Release\HoldPriceCore.dll
+C:\Users\Javiervs\Documents\OTC Mods\Hold Price\obj\Release\HoldPriceCore.pdb
