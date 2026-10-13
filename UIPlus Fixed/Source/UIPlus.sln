@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIPlus", "UIPlus.csproj", "{BAFB3401-1A62-410B-B7B1-1CCEC11F0242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIPlus_Load", "..\UIPlus_Load\UIPlus_Load.csproj", "{587F0FD8-9018-42FF-8C80-BFD09A201A41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAFB3401-1A62-410B-B7B1-1CCEC11F0242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFB3401-1A62-410B-B7B1-1CCEC11F0242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFB3401-1A62-410B-B7B1-1CCEC11F0242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFB3401-1A62-410B-B7B1-1CCEC11F0242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{587F0FD8-9018-42FF-8C80-BFD09A201A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587F0FD8-9018-42FF-8C80-BFD09A201A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587F0FD8-9018-42FF-8C80-BFD09A201A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587F0FD8-9018-42FF-8C80-BFD09A201A41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

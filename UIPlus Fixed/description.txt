@@ -1,0 +1,21 @@
+Updated and fixed version of the classic UI+ mod by Bug Kiooeht, restored for full compatibility with modern Offworld Trading Company releases.
+
+Provides a comprehensive suite of quality-of-life interface enhancements, detailed tooltips, and spectator controls.
+
+Key Features:
+- Building Net Revenue: Displays projected net revenue on resource row hover build buttons to quickly identify profitable construction options.
+- Enhanced Tooltips: Adds money-based color coding to cost tooltips and highlights terrain construction speed modifiers.
+- Terrain Construction Preview: Shows terrain speed modifiers directly when placing buildings.
+- Debt Rate of Change: Displays real-time debt increase/decrease rate beside your debt balance.
+- Player List HUD Upgrades: Player cash + resources are always visible next to player names, and long names no longer get cut off.
+- Camera Controls: Configurable maximum zoom-out distance and optional Zoom-to-Cursor mode.
+- Hologram Selection: Cleanly reorganizes the Hologram choice interface.
+- Spectator & Observer Tools: Caster Mode lobbies, spectator overlays, and advanced building status trackers next to player names.
+
+Default Hotkeys:
+- Hold J: View each player's debt next to their name.
+- Ctrl+U: Copy map seed to clipboard.
+- Ctrl+]: Toggle Observer advanced building status.
+- Hold ]: Temporarily hide Observer advanced building status.
+
+Original mod created by Bug Kiooeht: https://steamcommunity.com/sharedfiles/filedetails/?id=819109474

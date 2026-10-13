@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType>UIPLUS_TEXT_OPTIONSSCREEN_CASH_PLUS_RESOURCSE</zType>
+		<English>Show Cash+Resources</English>
+	</Entry>
+	<Entry>
+		<zType>UIPLUS_TEXT_OPTIONSSCREEN_CASH_PLUS_RESOURCSE_TT_DESC</zType>
+		<English>Show each players' cash + resource value.</English>
+	</Entry>
+	<Entry>
+		<zType>UIPLUS_TEXT_OPTIONSSCREEN_DEBT_CHANGE</zType>
+		<English>Show Debt Change</English>
+	</Entry>
+	<Entry>
+		<zType>UIPLUS_TEXT_OPTIONSSCREEN_DEBT_CHANGE_TT_DESC</zType>
+		<English>Show rate debt is changing.</English>
+	</Entry>
+	<Entry>
+		<zType>UIPLUS_TEXT_OPTIONSSCREEN_FLOATY_ICONS</zType>
+		<English>Floaty Icons</English>
+	</Entry>
+	<Entry>
+		<zType>UIPLUS_TEXT_OPTIONSSCREEN_FLOATY_ICONS_TT_DESC</zType>
+		<English>Show floating resource icons.</English>
+	</Entry>
+	<Entry>
+		<zType>UIPLUS_TEXT_OPTIONSSCREEN_OBSERVER_ONLY</zType>
+		<English>Observer Only</English>
+	</Entry>
+	<Entry>
+		<zType>UIPLUS_TEXT_OPTIONSSCREEN_OBSERVER_ONLY_TT_DESC</zType>
+		<English>Show UI+ changes only when Observer.</English>
+	</Entry>
+	<Entry>
+		<zType>UIPLUS_TEXT_OPTIONSSCREEN_BORDERLESS_WINDOWED</zType>
+		<English>Borderless Windowed</English>
+	</Entry>
+	<Entry>
+		<zType>UIPLUS_TEXT_OPTIONSSCREEN_CAMERA_ZOOM_OUT</zType>
+		<English>Max Zoom Out</English>
+	</Entry>
+	<Entry>
+		<zType>UIPLUS_TEXT_OPTIONSSCREEN_ZOOM_CAMERA</zType>
+		<English>Zoom to Cursor</English>
+	</Entry>
+	<Entry>
+		<zType>UIPLUS_TEXT_OPTIONSSCREEN_ZOOM_CAMERA_TT_DESC</zType>
+		<English>Camera zooms in towards the cursor rather than to the center of the screen.</English>
+	</Entry>
+	<Entry>
+		<zType>UIPLUS_TEXT_OPTIONSSCREEN_HIDE_ART_PACKS</zType>
+		<English>Disable Art Packs</English>
+	</Entry>
+	<Entry>
+		<zType>UIPLUS_TEXT_OPTIONSSCREEN_HIDE_ART_PACKS_TT_DESC</zType>
+		<English>Hide skins while in game.</English>
+	</Entry>
+	<Entry>
+		<zType>UIPLUS_TEXT_CREATELOBBY_CASTER_MODE</zType>
+		<English>UI+ Caster Mode</English>
+	</Entry>
+	<Entry>
+		<zType>UIPLUS_TEXT_CREATELOBBY_CASTER_MODE_TT_DESC</zType>
+		<English>If On, UI+ changes are only available to observers.</English>
+	</Entry>
+	<Entry>
+		<zType>UIPLUS_TEXT_CREATELOBBY_CASTER_MODE_ON</zType>
+		<English>On</English>
+	</Entry>
+	<Entry>
+		<zType>UIPLUS_TEXT_CREATELOBBY_CASTER_MODE_OFF</zType>
+		<English>Off</English>
+	</Entry>
+	<Entry>
+		<zType>UIPLUS_TEXT_CREATELOBBY_CASTER_MODE_MESSAGE</zType>
+		<English>Caster Mode set to {0}.</English>
+	</Entry>
+	<Entry>
+		<zType>UIPLUS_TEXT_GAMEOPTION_CASTER_MODE_LOBBYTOGGLE</zType>
+		<English><![CDATA[<true_0>Caster Mode is on.<false>Caster Mode is off.<end>]]></English>
+	</Entry>
+	<Entry>
+		<zType>MEGAMOD_TEXT_OPTIONSSCREEN_TAB</zType>
+		<English>Mod Options</English>
+	</Entry>
+	<Entry>
+		<zType>MEGAMOD_TEXT_OPTIONSSCREEN_HEADER_SUBMODS</zType>
+		<English><![CDATA[<b><color=#E5A823>SUBMODS</color></b>]]></English>
+	</Entry>
+	<Entry>
+		<zType>MEGAMOD_TEXT_OPTIONSSCREEN_LIMITED_LIABILITY</zType>
+		<English>Limited Liability Debt</English>
+	</Entry>
+	<Entry>
+		<zType>MEGAMOD_TEXT_OPTIONSSCREEN_LIMITED_LIABILITY_TT</zType>
+		<English>Caps buyout debt absorption to tangible physical assets and aligns share liquidation to net equity value.</English>
+	</Entry>
+	<Entry>
+		<zType>MEGAMOD_TEXT_OPTIONSSCREEN_HOLD_PRICE</zType>
+		<English>Hold Price Pegging</English>
+	</Entry>
+	<Entry>
+		<zType>MEGAMOD_TEXT_OPTIONSSCREEN_HOLD_PRICE_TT</zType>
+		<English>Peg commodity market prices using automated trades (SHIFT + CTRL + Click on Buy button).</English>
+	</Entry>
+	<Entry>
+		<zType>MEGAMOD_TEXT_OPTIONSSCREEN_NO_NUKES</zType>
+		<English>No Black Market Nukes</English>
+	</Entry>
+	<Entry>
+		<zType>MEGAMOD_TEXT_OPTIONSSCREEN_NO_NUKES_TT</zType>
+		<English>Underground Nukes will never appear in regular Black Market inventory; available only in rare auctions.</English>
+	</Entry>
+	<Entry>
+		<zType>MEGAMOD_TEXT_OPTIONSSCREEN_NO_DEPLETION</zType>
+		<English>No Resource Depletion</English>
+	</Entry>
+	<Entry>
+		<zType>MEGAMOD_TEXT_OPTIONSSCREEN_NO_DEPLETION_TT</zType>
+		<English>Disables randomized resource tile depletion on Interdimensional maps.</English>
+	</Entry>
+	<Entry>
+		<zType>MEGAMOD_TEXT_OPTIONSSCREEN_COLONY_CLASSES</zType>
+		<English>18 Colony Classes</English>
+	</Entry>
+	<Entry>
+		<zType>MEGAMOD_TEXT_OPTIONSSCREEN_COLONY_CLASSES_TT</zType>
+		<English>Unlocks the 18 Mars-native colony classes for skirmish games on Interdimensional maps.</English>
+	</Entry>
+	<Entry>
+		<zType>MEGAMOD_TEXT_OPTIONSSCREEN_UIPLUS_SUITE</zType>
+		<English>UI+ Enhanced HUD</English>
+	</Entry>
+	<Entry>
+		<zType>MEGAMOD_TEXT_OPTIONSSCREEN_UIPLUS_SUITE_TT</zType>
+		<English>Enables the UI+ interface upgrade suite, including projected building revenues, debt change metrics, and camera extensions.</English>
+	</Entry>
+	<Entry>
+		<zType>MEGAMOD_TEXT_OPTIONSSCREEN_HEADER_UIPLUS</zType>
+		<English><![CDATA[<b><color=#E5A823>UI+ FEATURES</color></b>]]></English>
+	</Entry>
+</Root>

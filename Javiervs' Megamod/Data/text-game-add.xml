@@ -1,0 +1,30 @@
+<Root>
+	<Entry>
+        <zType>TEXT_HUDHELP_CONSTRUCT_RESOURCE_NET_REVENUE_POSITIVE</zType>
+        <English><![CDATA[Net Revenue: <color=POSITIVE>{0}.</color>]]></English>
+	</Entry>
+	<Entry>
+        <zType>TEXT_HUDHELP_CONSTRUCT_RESOURCE_NET_REVENUE_NEGATIVE</zType>
+        <English><![CDATA[Net Revenue: <color=NEGATIVE>{0}.</color>]]></English>
+	</Entry>
+	<Entry>
+        <zType>TEXT_HUDINFO_TERRAIN_CONSTRUCTION_RATE_POSITIVE</zType>
+        <English>{0_terrainName} (<![CDATA[<color=POSITIVE>{1_rateModifier} construction speed</color>]]>)</English>
+	</Entry>
+	<Entry>
+        <zType>TEXT_HUDINFO_TERRAIN_CONSTRUCTION_RATE_NEGATIVE</zType>
+        <English>{0_terrainName} (<![CDATA[<color=NEGATIVE>{1_rateModifier} construction speed</color>]]>)</English>
+	</Entry>
+	<Entry>
+        <zType>TEXT_HUDINFO_MAP_SEED</zType>
+        <English>This is the map seed. <![CDATA[<color=GOAL_ACTIVE>{0}</color>]]> to copy it to the system clipboard.</English>
+	</Entry>
+	<Entry>
+        <zType>TEXT_HUDINFO_DEBT_CHANGE_POSITIVE</zType>
+        <English>Total change: <![CDATA[<color=POSITIVE>{0_money}</color>]]></English>
+	</Entry>
+	<Entry>
+        <zType>TEXT_HUDINFO_DEBT_CHANGE_NEGATIVE</zType>
+        <English>Total change: <![CDATA[<color=NEGATIVE>{0_money}</color>]]></English>
+	</Entry>
+</Root>

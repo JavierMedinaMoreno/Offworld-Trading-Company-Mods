@@ -1,0 +1,22 @@
+<Root>
+	<Entry>
+        <zType>TEXT_HUDHELP_CONSTRUCT_RESOURCE_RESOURCE_REVENUE</zType>
+        <English>{0_resource_level} {1_resource}: <![CDATA[<color=POSITIVE>+${2_revenue}</color>]]></English>
+	</Entry>
+	<Entry>
+        <zType>TEXT_HUDHELP_CONSTRUCT_RESOURCE_POWER</zType>
+        <English>Energy Costs: <![CDATA[<color=NEGATIVE>{1_cost} {0_resource}</color>]]></English>
+	</Entry>
+	<Entry>
+        <zType>TEXT_HUDINFO_MAKING_MONEY_RESOURCE</zType>
+        <English>You are making <![CDATA[<color=POSITIVE>{0_money}</color>]]> from {1_resourceName}</English>
+	</Entry>
+    <Entry>
+        <zType>TEXT_HUDINFO_LOSING_MONEY_RESOURCE</zType>
+        <English>You are losing <![CDATA[<color=NEGATIVE>{0_money}</color>]]> from {1_resourceName}</English>
+	</Entry>
+	<Entry>
+        <zType>TEXT_GAME_MENU_MAP_SEED</zType>
+        <English>Map seed: {0_mapSeedNumber} [<![CDATA[<color=GOAL_ACTIVE>{1_hotkey}</color>]]>]</English>
+    </Entry>
+</Root>

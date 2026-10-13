@@ -1,0 +1,19 @@
+<Root>
+	<Entry>
+		<zType>UIPLUS_GAMEOPTION_CASTER_MODE</zType>
+		<Name>UIPLUS_TEXT_CREATELOBBY_CASTER_MODE</Name>
+		<Description>UIPLUS_TEXT_CREATELOBBY_CASTER_MODE_TT_DESC</Description>
+		<LobbyToggleOutput>UIPLUS_TEXT_GAMEOPTION_CASTER_MODE_LOBBYTOGGLE</LobbyToggleOutput>
+		<bDefaultValueSP/>
+		<bDefaultValueCampaign/>
+		<bDefaultValueMP/>
+		<bDefaultValueQM/>
+		<bMultiPlayerOption/>
+		<bSinglePlayerOption>1</bSinglePlayerOption>
+		<bCampaignOption/>
+		<bPriorityOption/>
+		<bRequiresDLCMaps/>
+		<bRequiresDLCCeres/>
+		<LocationInvalid/>
+	</Entry>
+</Root>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType>BLACKMARKET_UNDERGROUND_NUKE</zType>
+		<iAppearanceProb>0</iAppearanceProb>
+		<bAuction>1</bAuction>
+		<LocationAppearanceModifier>
+			<Pair>
+				<zIndex>LOCATION_MARS</zIndex>
+				<iValue>-99999</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>LOCATION_CERES</zIndex>
+				<iValue>-99999</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>LOCATION_IO</zIndex>
+				<iValue>-99999</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>LOCATION_EUROPA</zIndex>
+				<iValue>-99999</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>LOCATION_DIMENSION</zIndex>
+				<iValue>-99999</iValue>
+			</Pair>
+		</LocationAppearanceModifier>
+	</Entry>
+</Root>

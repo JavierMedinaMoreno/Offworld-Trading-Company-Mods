@@ -1,0 +1,2 @@
+C:\Program Files (x86)\Steam\steamapps\workshop\content\271240\819109474\Source\obj\Release\UIPlus.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\workshop\content\271240\819109474\Source\obj\Release\UIPlus.csproj.CoreCompileInputs.cache

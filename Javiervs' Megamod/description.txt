@@ -1,0 +1,11 @@
+This is a compilation of all my standalone OTC mods. You can find each of them individually in my steam workshop page.
+
+Included Mods:
+- Limited Liability Debt Transfer: Shareholders assume target debt upon buyout, capped strictly to physical assets acquired, with smart debt-aware AI and stock liability tooltips.
+- Hold Price - Commodity Price Pegging: Peg any commodity's market price using automated buy and sell trades (SHIFT + CTRL + Click on the Buy button).
+- UI+ Fixed: Comprehensive interface upgrade featuring projected building revenue, detailed tooltips, debt change rates, player list HUD improvements, and spectator tools.
+- No Underground Nukes: Removes Underground Nukes from the regular Black Market shop, reserving them exclusively for rare sabotage auctions.
+- Interdimensional No Resource Depletion: Disables randomized resource depletion on Interdimensional maps.
+- Interdimensional Colony Classes: Unlocks 18 colony classes for skirmishes on Interdimensional maps.
+
+Would you like a different combination of my mods? Let me know in the comments.

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType>TEXT_KEYBINDING_COPY_SEED</zType>
+		<English>[UI+] Copy Map Seed to Clipboard</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_KEYBINDING_SHOW_ALL_DEBT</zType>
+		<English>[UI+] Show All Players' Debt</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_KEYBINDING_HIDE_SPECIAL_BUILDING_OVERVIEW</zType>
+		<English>[UI+] Hide Advanced Buildings Overview</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_KEYBINDING_TOGGLE_SPECIAL_BUILDING_OVERVIEW</zType>
+		<English>[UI+] Toggle Advanced Buildings Overview</English>
+	</Entry>
+</Root>

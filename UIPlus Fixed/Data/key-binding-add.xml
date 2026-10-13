@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2014 rel. 2 sp1 (http://www.altova.com) by Soren Johnson (private) -->
+<!--Uses Unity button name convention for Hotkey field: http://docs.unity3d.com/Manual/ConventionalGameInput.html 
+	Exceptions: 
+	Use SHIFT instead of Left Shift/Right Shift
+	Use CTRL instead of Left Control/Right Control
+	Use ALT instead of Left Alt/Right Alt
+	Use CMD instead of Left Command/Right Command
+-->
+<Root>
+	<Entry>
+		<zType>KEYBINDING_COPY_SEED</zType>
+		<zClass>KEYBINDCLASS_TOGGLE_INTERFACE</zClass>
+		<zText>TEXT_KEYBINDING_COPY_SEED</zText>
+		<Hotkey>CTRL+U</Hotkey>
+		<OSXHotkey/>
+		<bOnKeyUp>0</bOnKeyUp>
+		<bOnKeyHold>0</bOnKeyHold>
+	</Entry>
+	<Entry>
+		<zType>KEYBINDING_SHOW_ALL_DEBT</zType>
+		<zClass>KEYBINDCLASS_TOGGLE_INTERFACE</zClass>
+		<zText>TEXT_KEYBINDING_SHOW_ALL_DEBT</zText>
+		<Hotkey>J</Hotkey>
+		<OSXHotkey/>
+		<bOnKeyUp>0</bOnKeyUp>
+		<bOnKeyHold>1</bOnKeyHold>
+	</Entry>
+	<Entry>
+		<zType>KEYBINDING_HIDE_SPECIAL_BUILDING_OVERVIEW</zType>
+		<zClass>KEYBINDCLASS_TOGGLE_INTERFACE</zClass>
+		<zText>TEXT_KEYBINDING_HIDE_SPECIAL_BUILDING_OVERVIEW</zText>
+		<Hotkey>RIGHT BRACKET</Hotkey>
+		<OSXHotkey/>
+		<bOnKeyUp>0</bOnKeyUp>
+		<bOnKeyHold>1</bOnKeyHold>
+	</Entry>
+	<Entry>
+		<zType>KEYBINDING_TOGGLE_SPECIAL_BUILDING_OVERVIEW</zType>
+		<zClass>KEYBINDCLASS_TOGGLE_INTERFACE</zClass>
+		<zText>TEXT_KEYBINDING_TOGGLE_SPECIAL_BUILDING_OVERVIEW</zText>
+		<Hotkey>CTRL+RIGHT BRACKET</Hotkey>
+		<OSXHotkey/>
+		<bOnKeyUp>0</bOnKeyUp>
+		<bOnKeyHold>0</bOnKeyHold>
+	</Entry>
+</Root>
