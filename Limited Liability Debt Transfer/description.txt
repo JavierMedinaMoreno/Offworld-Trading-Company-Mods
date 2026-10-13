@@ -1,0 +1,11 @@
+Rebalances corporate takeovers and stock trading with realistic corporate finance rules, expanding upon the "Buyout Debt" concept by Oralordos.
+
+In vanilla Offworld Trading Company, buying out a rival completely erases 100% of their debt for free. This mod transfers outstanding debt to shareholders upon acquisition, while introducing true corporate limited liability and smart AI evaluation so buyouts remain fair, strategic, and balanced.
+
+Key Features:
+- Limited Liability Takeovers: Shareholders assume target debt upon buyout (10% per share owned), capped strictly by the tangible physical value of the structures, mines, and stockpiles acquired.
+- Debt-Aware AI: Computer opponents factor attached debt liabilities and credit ratings into their financial planning, preventing the AI from committing chain-suicide buyouts on heavily indebted rivals.
+- Transparent Stock Tooltips: Stock buy buttons clearly display the exact debt liability attached per share upon acquisition.
+- Fair Stock Liquidation: Distressed, balance-sheet-insolvent shares sell for $0.00 rather than an artificial cash floor.
+
+Based on "Buyout Debt" by Oralordos: https://steamcommunity.com/sharedfiles/filedetails/?id=2051432580

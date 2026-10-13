@@ -1,0 +1,6 @@
+C:\Users\Javiervs\Documents\OTC Mods\Limited Liability Debt Transfer\obj\Release\LimitedLiabilityDebtTransfer.csproj.AssemblyReference.cache
+C:\Users\Javiervs\Documents\OTC Mods\Limited Liability Debt Transfer\obj\Release\LimitedLiabilityDebtTransfer.csproj.CoreCompileInputs.cache
+C:\Users\Javiervs\Documents\OTC Mods\Limited Liability Debt Transfer\bin\Release\LimitedLiabilityDebtTransferCore.dll
+C:\Users\Javiervs\Documents\OTC Mods\Limited Liability Debt Transfer\bin\Release\LimitedLiabilityDebtTransferCore.pdb
+C:\Users\Javiervs\Documents\OTC Mods\Limited Liability Debt Transfer\obj\Release\LimitedLiabilityDebtTransferCore.dll
+C:\Users\Javiervs\Documents\OTC Mods\Limited Liability Debt Transfer\obj\Release\LimitedLiabilityDebtTransferCore.pdb

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Release</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4D242337-CF7F-44F4-98F1-4F44BCB05CDA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BuyoutDebtAI</RootNamespace>
+    <AssemblyName>LimitedLiabilityDebtTransferCore</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="netstandard">
+      <HintPath>C:\Program Files (x86)\Steam\steamapps\common\Offworld Trading Company\Offworld_Data\Managed\netstandard.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Assembly-CSharp-firstpass">
+      <HintPath>C:\Users\Javiervs\Documents\My Games\Offworld\Mods\Hidden\Reference\Assembly-CSharp-firstpass.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Mohawk.SystemCore">
+      <HintPath>C:\Program Files (x86)\Steam\steamapps\common\Offworld Trading Company\Offworld_Data\Managed\Mohawk.SystemCore.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>C:\Users\Javiervs\Documents\My Games\Offworld\Mods\Hidden\Reference\UnityEngine.CoreModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>C:\Program Files (x86)\Steam\steamapps\common\Offworld Trading Company\Offworld_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>C:\Program Files (x86)\Steam\steamapps\common\Offworld Trading Company\Offworld_Data\Managed\UnityEngine.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="0Harmony">
+      <HintPath>lib\0Harmony.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BuyoutAIFactory.cs" />
+    <Compile Include="BuyoutAIPlayerServer.cs" />
+    <Compile Include="BuyoutTooltipPatches.cs" />
+    <Compile Include="ModEntryPoint.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="AfterBuild">
+    <ItemGroup>
+      <EmbeddedResources Include="$(TargetPath)">
+        <LogicalName>LimitedLiabilityDebtTransferCore.dll</LogicalName>
+      </EmbeddedResources>
+      <EmbeddedResources Include="$(ProjectDir)lib\0Harmony.dll">
+        <LogicalName>0Harmony.dll</LogicalName>
+      </EmbeddedResources>
+    </ItemGroup>
+    <Csc TargetType="library"
+         OutputAssembly="$(ProjectDir)LimitedLiabilityDebtTransfer.dll"
+         References="C:\Program Files (x86)\Steam\steamapps\common\Offworld Trading Company\Offworld_Data\Managed\netstandard.dll;C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\mscorlib.dll;C:\Users\Javiervs\Documents\My Games\Offworld\Mods\Hidden\Reference\Assembly-CSharp-firstpass.dll;C:\Users\Javiervs\Documents\My Games\Offworld\Mods\Hidden\Reference\UnityEngine.CoreModule.dll"
+         Resources="@(EmbeddedResources)"
+         Sources="$(ProjectDir)Loader.cs" />
+  </Target>
+</Project>

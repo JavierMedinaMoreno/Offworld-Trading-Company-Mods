@@ -1,0 +1,6 @@
+C:\Users\Javiervs\Documents\OTC Mods\Buyout Debt AI\obj\Release\BuyoutDebtAI.csproj.AssemblyReference.cache
+C:\Users\Javiervs\Documents\OTC Mods\Buyout Debt AI\obj\Release\BuyoutDebtAI.csproj.CoreCompileInputs.cache
+C:\Users\Javiervs\Documents\OTC Mods\Buyout Debt AI\bin\Release\BuyoutDebtAICore.dll
+C:\Users\Javiervs\Documents\OTC Mods\Buyout Debt AI\bin\Release\BuyoutDebtAICore.pdb
+C:\Users\Javiervs\Documents\OTC Mods\Buyout Debt AI\obj\Release\BuyoutDebtAICore.dll
+C:\Users\Javiervs\Documents\OTC Mods\Buyout Debt AI\obj\Release\BuyoutDebtAICore.pdb
