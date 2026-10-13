@@ -1,0 +1,1 @@
+Enables all colony classes that make sense to have for skirimishes on Interdimensional: Residential, Automated, Penal, Research, Transit Hub, Security Center, Shipyard, Engineering, Power Station, Farming, Life Support, Reservoir, Mining, Quarry, Construction, Industry, Medical, and Waste Collection modules on Interdimensional maps.

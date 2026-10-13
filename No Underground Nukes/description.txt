@@ -1,0 +1,4 @@
+No Underground Nukes in Black Market Shop
+
+- Underground Nukes will never appear in regular Black Market inventory across any map or colony location.
+- Underground Nukes can still appear through special Black Market sabotage auctions.

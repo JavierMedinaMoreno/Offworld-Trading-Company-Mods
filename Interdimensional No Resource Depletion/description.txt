@@ -1,0 +1,1 @@
+Disables resource depletion on Interdimensional by changing the draw chance to 0.
